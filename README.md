@@ -12,6 +12,6 @@ IpythonNotebooks
 |---Python
 |	|
 |	|---Introduction Tutorial
-|	|	|---Python.ipynb
+|	|	|---PythonIntro.ipynb
 |	|	|---Numpy.ipynb
 ```
