@@ -1,6 +1,8 @@
 #Temporary Files#
 mod*
-
+*.pdf
+*.txt
+.ipynb_checkpoints
 #Corpus#
 ###################
 data/
